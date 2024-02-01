@@ -1,0 +1,22 @@
+{
+  "name": "30-days-of-nodejs",
+  "version": "1.0.0",
+  "description": "30 Days of NodeJS Coding - Re-assesing my NodeJS Skills",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sansk/30-days-of-nodejs.git"
+  },
+  "author": "sansk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sansk/30-days-of-nodejs/issues"
+  },
+  "homepage": "https://github.com/sansk/30-days-of-nodejs#readme",
+  "dependencies": {
+    "chalk": "^5.3.0"
+  }
+}
